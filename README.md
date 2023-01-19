@@ -1,6 +1,6 @@
 RESTAURANT WEBPAGE
 
-Link to project:
+Link to project: https://brittanytamra.github.io/brittanybrathwaite/restaurant/index.html
 
 
 TECH USED:
