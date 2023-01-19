@@ -1,4 +1,4 @@
-RESTAURANT WEBPAGE
+# RESTAURANT WEBPAGE
 
 Link to project: https://brittanytamra.github.io/brittanybrathwaite/restaurant/index.html
 
